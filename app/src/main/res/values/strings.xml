@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="operation">Operation</string>
+    <string name="result">Result</string>
+    <string name="arg_1_name">arg1</string>
+    <string name="arg_2_name">arg2</string>
+    <string name="addition">addition</string>
+</resources>
