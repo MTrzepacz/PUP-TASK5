@@ -5,4 +5,5 @@
     <string name="arg_1_name">arg1</string>
     <string name="arg_2_name">arg2</string>
     <string name="addition">addition</string>
+    <string name="subtract">substract</string>
 </resources>
